@@ -50,35 +50,11 @@ https://smswithdjango.herokuapp.com/
 
 | Admin| Staff| Student |
 |------|-------|---------|
-|<img src="ss/admin5.png" width="400">|<img src="ss/staff1.png" width="400">|<img src="ss/student1.png" width="400">|
-|<img src="ss/admin2.png" width="400">|<img src="ss/staff2.png" width="400">|<img src="ss/student2.png" width="400">|
-|<img src="ss/admin3.png" width="400">|<img src="ss/staff3.png" width="400">|<img src="ss/student3.png" width="400">|
-|<img src="ss/admin4.png" width="400">|<img src="ss/staff4.png" width="400">|<img src="ss/student4.png" width="400">|
-|<img src="ss/admin1.png" width="400">|<img src="ss/staff5.png" width="400">|<img src="ss/student5.png" width="400">|
-|<img src="ss/admin6.png" width="400">|<img src="ss/staff6.png" width="400">|<img src="ss/student6.png" width="400">|
 
 
 
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
 
 
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com)
-
-
-## How to Install and Run this project?
-
-### Pre-Requisites:
-1. Install Git Version Control
-[ https://git-scm.com/ ]
-
-2. Install Python Latest Version
-[ https://www.python.org/downloads/ ]
-
-3. Install Pip (Package Manager)
-[ https://pip.pypa.io/en/stable/installing/ ]
 
 *Alternative to Pip is Homebrew*
 
@@ -87,42 +63,9 @@ Images are from [Unsplash](https://unsplash.com)
 
 **2. Create a Virtual Environment and Activate**
 
-Install Virtual Environment First
-```
-$  pip install virtualenv
-```
 
-Create Virtual Environment
 
-For Windows
-```
-$  python -m venv venv
-```
-For Mac
-```
-$  python3 -m venv venv
-```
-For Linux
-```
-$  virtualenv .
-```
 
-Activate Virtual Environment
-
-For Windows
-```
-$  source venv/scripts/activate
-```
-
-For Mac
-```
-$  source venv/bin/activate
-```
-
-For Linux
-```
-$  source bin/activate
-```
 
 **3. Clone this project**
 ```
